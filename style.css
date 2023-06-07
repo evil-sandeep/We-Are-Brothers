@@ -75,27 +75,27 @@
 }
 
 .card:nth-child(1) {
-    animation: cardAnim 2s 3s backwards;
+    animation: cardAnim 16s 16s backwards;
 }
 
 .card:nth-child(2) {
-    animation: cardAnim 2s 4s backwards;
+    animation: cardAnim 16s 17s backwards;
 }
 
 .card:nth-child(3) {
-    animation: cardAnim 2s 5s backwards;
+    animation: cardAnim 16s 18s backwards;
 }
 
 .card:nth-child(4) {
-    animation: cardAnim 2s 6s backwards;
+    animation: cardAnim 16s 19s backwards;
 }
 
 .card:nth-child(5) {
-    animation: cardAnim 2s 7s backwards;
+    animation: cardAnim 16s 20s backwards;
 }
 
 .card:nth-child(6) {
-    animation: cardAnim 2s 8s backwards;
+    animation: cardAnim 16s 21s backwards;
 }
 
 .card:hover {
